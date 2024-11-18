@@ -1,0 +1,54 @@
+#content{
+    font-family: 'Courier New', Courier, monospace;
+  /* width: 1024px;*/
+   margin: 0 auto;
+
+}
+
+#menu{
+    width: 33%;
+    background-color: crimson;
+    height: 600px;
+    display: block;
+    float: left;
+}
+
+#page{
+    width: 20%;
+    background-color: darkgreen;
+    height: 400px;
+    display: block;
+    float: left;
+}
+
+#structure{
+    width: 10%;
+    background-color:darkseagreen;
+    height: 200px;
+    float: left;
+}
+
+#test3{
+    width: 10%;
+    background-color: mediumpurple;
+    height: 100px;
+    display: block;
+    float: left;
+}
+.para{
+    font-weight: bold;
+}
+
+#test{
+    width: 100%;
+    height: 300px;
+    background-color: lightsalmon;
+    padding: 50px;
+}
+#test2{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(46, 158, 213);
+    margin: 0 auto 20px auto;
+}
+
